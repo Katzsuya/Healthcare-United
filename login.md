@@ -1,3 +1,3 @@
 layout: page
 title: "Login"
-permalink:" /Healthcare-United/login/
+permalink:" /login/
